@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.91268003.css",
-    "main.js": "/static/js/main.09565154.js",
+    "main.js": "/static/js/main.e49c226e.js",
+    "static/media/tarwiiga_app_demo.mp4": "/static/media/tarwiiga_app_demo.bb52204d659e6444995a.mp4",
     "static/media/product_img.jpg": "/static/media/product_img.c4316637f3365828221b.jpg",
     "static/media/logo.svg": "/static/media/logo.e8abf0c6ccbd2a91f6cb36e0bf5622a3.svg",
     "index.html": "/index.html",
     "main.91268003.css.map": "/static/css/main.91268003.css.map",
-    "main.09565154.js.map": "/static/js/main.09565154.js.map"
+    "main.e49c226e.js.map": "/static/js/main.e49c226e.js.map"
   },
   "entrypoints": [
     "static/css/main.91268003.css",
-    "static/js/main.09565154.js"
+    "static/js/main.e49c226e.js"
   ]
 }
